@@ -8,3 +8,4 @@ namespace kol {
 	extern std::string sd;
 	int pgk();
 }
+///
