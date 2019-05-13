@@ -64,6 +64,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	return (int)msg.wParam;
 	//есть ли какой то интерфейс функции или функция по типу ADD чтобы к лупу добавить кастомную функцию
 	//и использовать ее при каждом лупе  (callback) 
+	////
 }
 
 
